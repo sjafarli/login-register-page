@@ -1,10 +1,12 @@
 # login-register-page
  
  
-# Login 
+# LoginServlet
 gets user credentials from db and logs in
 
-# Register 
+# RegisterServlet
 adds the data to db
 
-# Find
+# FindServlet
+
+Displays the data
